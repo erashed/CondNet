@@ -37,6 +37,6 @@ Open in Mathematica (12.0 or above), Evalute -> Evaluate Notebook
 
 References
 ==========
-E. A. Rashed, Y. Diao and A. Hirata, "Learning-based estimation of dielectric properties and tissue density in head models for personalized radio-frequency dosimetry," Physics in Medicine and Biology, 2020 (doi: https://doi.org/10.1088/1361-6560/ab7308)
+* E. A. Rashed, Y. Diao and A. Hirata, "Learning-based estimation of dielectric properties and tissue density in head models for personalized radio-frequency dosimetry," Physics in Medicine and Biology, 2020 (doi: https://doi.org/10.1088/1361-6560/ab7308)
 
-E. A. Rashed, J. Gomez-Tames and A. Hirata, "Deep learning-based development of personalized human head model with non-uniform conductivity for brain stimulation," IEEE Transactions on Medical Imaging, 2020 (doi: https://doi.org/10.1109/TMI.2020.2969682)
+* E. A. Rashed, J. Gomez-Tames and A. Hirata, "Deep learning-based development of personalized human head model with non-uniform conductivity for brain stimulation," IEEE Transactions on Medical Imaging, 2020 (doi: https://doi.org/10.1109/TMI.2020.2969682)
