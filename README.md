@@ -5,7 +5,7 @@ Copyrights (c) 2020, Essam Rashed
 
 This code aims at mapping (T1/T2) MRI images with dielectric properties (e.g. conductivity & permittivity). 
 
-This code is compatable with Mathematica 12.0 and byond and tested over Windows 10, Ubuntu 16.04, and OSX 10.11.6. More details are in our papers mentioned below. If you are using this code, please cite our papers.
+This code is compatible with Mathematica 12.0 and beyond and tested over Windows 10, Ubuntu 16.04, and OSX 10.11.6. More details are in our papers mentioned below. If you are using this code, please cite our papers.
 
 -> Input images are in MATLAB "*.mat" formats for easy use
 
